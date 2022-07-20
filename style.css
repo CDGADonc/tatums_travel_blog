@@ -1,0 +1,20 @@
+*{
+    font-family: Arial;
+}
+h1{
+  font-family: Geneva;
+}
+h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+    background-color: rgb(189, 213, 222);
+}
+header {
+    background-image: url('https://images.unsplash.com/photo-1470125634816-ede3f51bbb42?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3Vuc2V0JTIwcGFub3JhbWF8ZW58MHx8MHx8&w=1000&q=80');
+    background-size:cover;
+    color: lightgray;
+}
+article{
+    background-image: linear-gradient(orange, yellow);
+}
